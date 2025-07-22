@@ -1,6 +1,5 @@
 <script setup>
 import Comptage_partie from './components/comptage_partie.vue';
-import HelloWorld from './components/HelloWorld.vue'
 import Player_list from './components/player_list.vue';
 import Score_array from './components/score_array.vue';
 </script>
